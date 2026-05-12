@@ -9,7 +9,7 @@ Bu depo, Bilgisayar Mühendisliği öğrencisi olarak yazılım dünyasını fiz
 | Tarih | Yapılan Çalışma | Notlar | Durum |
 | :--- | :--- | :--- | :--- |
 | 11.05.2026 | Yol Haritası Belirlendi | GitHub deposu kuruldu ve hedefler netleşti. | ✅ |
-| 12.05.2026 | İlk Teknik Adım | Tinkercad ile simülasyon dünyasına giriş yapılacak. | ✅ |
+| 12.05.2026 | İlk Teknik Adım | | 12.05.2026 | Tinkercad ile İlk LED Devresi | 220 Ohm direnç kullanıldı, patlama hatası çözüldü. | ✅ |
 
 ---
 
